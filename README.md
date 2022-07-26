@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Raphael Silva José</h1>
-<h3 align="center">Analista de Sistemas JR</h3>
+<h3 align="center">Systems Analyst Jr</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 I'm currently learning **Python**
 
-- 📫 Como chegar até mim **raphasilvajose@gmail.com**
+- 📫 how to reach me **raphasilvajose@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/raphael-silva-jose/](https://www.linkedin.com/in/raphael-silva-jose/)
+- 📄 Know my experiences [https://www.linkedin.com/in/raphael-silva-jose/](https://www.linkedin.com/in/raphael-silva-jose/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
