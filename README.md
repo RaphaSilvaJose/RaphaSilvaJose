@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou Raphael Silva José</h1>
+<h1 align="center">Oi, eu sou Raphael Silva José</h1>
 <h3 align="center">Systems Analyst Jr</h3>
 
 - 🌱 I'm currently learning **Python**
